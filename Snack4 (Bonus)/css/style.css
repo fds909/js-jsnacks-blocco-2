@@ -1,0 +1,16 @@
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial;
+    font-size: 20px;
+}
+
+.container {
+    width: 70%;
+    margin: 0 auto;
+}
